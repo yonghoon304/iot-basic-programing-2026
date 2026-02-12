@@ -6,8 +6,8 @@
 
 int main(void) {
 	// 콘솔출력,입력을 UTF-8(65001)로 고정설정
-	// SetConsoleOutputCP(65001);	// 콘솔출력 코드페이지
-	// SetConsoleCP(65001);	// 콘솔자체 코드페이지
+	SetConsoleOutputCP(65001);	// 콘솔출력 코드페이지
+	SetConsoleCP(65001);	// 콘솔자체 코드페이지
 	FILE* ifp,*ofp;
 
 	// 텍스트 내 포맷에 맞춰서 변수 선언
@@ -38,7 +38,7 @@ int main(void) {
 		total = kor + eng + math;
 		avg = total / 3.0;
 		printf("%s%5d%7.1f\n", name, total, avg);	// 콘솔에 출력
-		
+		fprintf("%s%5d%7.1f\n", name, total, avg);	// 파일에 출력
 	}
 	printf("파일 복사 완료\n");
 	//파일 포인터 해제

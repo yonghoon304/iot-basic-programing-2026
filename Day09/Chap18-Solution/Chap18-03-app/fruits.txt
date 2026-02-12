@@ -1,0 +1,14 @@
+apple
+banana
+peach
+apple
+banana
+pear
+grape
+apple
+?
+apple
+pear
+mango
+?
+lest

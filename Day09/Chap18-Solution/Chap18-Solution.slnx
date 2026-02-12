@@ -5,4 +5,7 @@
   </Configurations>
   <Project Path="Chap18-01-app/Chap18-01-app.vcxproj" Id="2c996bc5-d603-4857-9214-b3cf619e7817" />
   <Project Path="Chap18-02-app/Chap18-02-app.vcxproj" Id="c70401bc-626a-4284-974d-a4d5a3898294" />
+  <Project Path="Chap18-03-app/Chap18-03-app.vcxproj" Id="598cd143-cfee-4cdd-8a07-a4dcc8dacb51" />
+  <Project Path="Chap18-04-app/Chap18-04-app.vcxproj" Id="f26a00da-da35-458c-bd93-10cf7782c315" />
+  <Project Path="Chap18-05-app/Chap18-05-app.vcxproj" Id="2d32a56f-a2df-4f6e-b45b-586c31f60993" />
 </Solution>

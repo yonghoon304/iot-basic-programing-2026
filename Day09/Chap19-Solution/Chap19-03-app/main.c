@@ -8,7 +8,7 @@ void print_data(double);
 
 // 전역 변수!
 int count = 0;
-static int total = 0;	// 정적, 소스코드가 실행되는 동안 끝까지 살아남는 변수
+static int total = 0;	// 다른 소스에 공유 안함
 
 int main(void) {
 	double avg;

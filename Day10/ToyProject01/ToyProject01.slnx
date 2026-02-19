@@ -5,6 +5,6 @@
   </Configurations>
   <Project Path="Addressbook_step1/Addressbook_step1.vcxproj" Id="be8eddd1-4dd8-4e32-bad4-118173777a83" />
   <Project Path="Addressbook_step2/Addressbook_step2.vcxproj" Id="040ddbb8-07d0-435a-9810-a61a9bdba83c" />
-  <Project Path="Addressbook_step3/Addressbook_step3.vcxproj" />
-  <Project Path="Addressbook_step4/Addressbook_step4.vcxproj" />
+  <Project Path="Addressbook_step3/Addressbook_step3.vcxproj" Id="5ad5df97-9cb1-4a00-aaee-a41129650a23" />
+  <Project Path="Addressbook_step4/Addressbook_step4.vcxproj" Id="09d32adb-f850-4ea8-bc6a-83ad70fa24b8" />
 </Solution>
